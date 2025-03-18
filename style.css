@@ -75,11 +75,11 @@ aside > :last-child {
 
 
 .menu {
-  width: 30%;
+  flex: 30%;
 }
 
 .obsah {
-  width: 70%;
+  flex: 70%;
 }
 
 }
@@ -94,15 +94,15 @@ aside > :last-child {
   
   
   .menu {
-    width: 20%;
+    flex: 20%;
   }
   
   .obsah {
-    width: 60%;
+    flex: 60%;
   }
 
   .reklama {
-    width: 20%;
+    flex: 20%;
   }
   
   }
